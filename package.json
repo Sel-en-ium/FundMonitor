@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+  },
+  "dependencies": {
+    "path": "~0.11.14",
+    "htmlparser": "1.7.7",
+    "fs-extra": "~0.20.1",
+    "fileUtility": "Sel-en-ium/NodeFileUtility",
+    "jsUtility": "https://github.com/Sel-en-ium/NodeJsUtility.git"
+  }
+}
