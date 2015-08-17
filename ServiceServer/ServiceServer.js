@@ -1,4 +1,8 @@
 /*jslint node: true*/
+
+/**
+ * The main file for running the service server.
+ */
 (function () {
   'use strict';
 
